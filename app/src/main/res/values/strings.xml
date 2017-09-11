@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="bt1">ButtonTest</string>
+    <string name="bt2">ButtonReturn</string>
+    <string name="editText2">Words</string>
+</resources>
